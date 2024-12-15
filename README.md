@@ -58,9 +58,6 @@ The neural network uses the following architecture:
 - Try data augmentation techniques
 - Implement cross-validation
 
-## License
-[Specify your license here]
-
 ## Acknowledgments
 - University of Wisconsin for the original dataset
 - Scikit-learn for providing the dataset
